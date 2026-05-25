@@ -24,7 +24,8 @@
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "wavesurfer.js": "^7.3.2",
-    "zone.js": "~0.15.0"
+    "zone.js": "~0.15.0",
+    "zxing-js/library": "^0.19.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^19.1.7",
